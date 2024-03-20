@@ -5,8 +5,8 @@ import statsmodels.formula.api as smf
 import statsmodels.api as sm
 from statsmodels.stats.outliers_influence import variance_inflation_factor
 # from scipy.stats import levene, ttest_ind, ranksums, kruskal, chi2_contingency, zscore
-import rpy2.robjects.numpy2ri
-from rpy2.robjects.packages import importr
+# import rpy2.robjects.numpy2ri
+# from rpy2.robjects.packages import importr
 import ast
 
 class utils():

@@ -1,0 +1,5 @@
+statsmodels==0.14.1
+streamlit==1.29.0
+docx==0.2.4
+rpy2==3.5.15
+pandas==2.1.3
